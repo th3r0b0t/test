@@ -1,7 +1,7 @@
 # GiSTProject - Standalone GiST search tree (Disk presistant) based on libgist V2.0 by University of California, Berkeley
 -------------------------------------------------------------------------------------------------------------------------
 > [!IMPORTANT]  
-> The new directory hierarchy has taken place since #3 issue (on Github).
+> The new directory hierarchy has taken place since [#3](https://github.com/th3r0b0t/test/issues/3#issue-1868098817) issue (on Github).
 > You must follow this structure when contributing to this repository as the purpose of each directory and file described below:
  
 ### Diagram view:
